@@ -15,3 +15,17 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+derby.log
+metastore_db/
+
+linkage/bin/
+linkage/resources/
+linkage/target/
+linkage/derby.log
+linkage/metastore_db/
+linkage/project/
+linkage/src/main/resources/
+linkage/.classpath
+linkage/.project
+linkage/.settings
